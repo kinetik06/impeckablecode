@@ -1,0 +1,68 @@
+{
+    "person": {
+      "f_name": "Marcus",
+      "l_name": "Peck",
+      "address": "3331 The Loop Rd. Richmond, VA 23231",
+      "ph_number": "(804)405-6331"
+    },
+    "experience": {
+      "1": {
+        "name": "Zombie Tech Inc",
+        "location": "Richmond, Va",
+        "position": "Developer",
+        "duties": {
+          "1": "Design and maintain web applications using web frameworks",
+          "2": "Deploy web applications using Apache & Nginx",
+          "3": "Design, build, maintain, and debug native Android applications",
+          "4": "Integrate RESTful APIs to increase functionality"
+        }
+      },
+      "2": {
+        "name": "Haley Buick GMC",
+        "location": "Richmond, Va",
+        "position": "Parts Consultant",
+        "duties": {
+          "1": "Provide support for Service Dept by providing necessary parts for repairs",
+          "2": "Answer phone calls and provide customers with quotes on applicable parts",
+          "3": "Communicate via email & phone to distributors and service providers"
+        }
+      },
+      "3": {
+        "name": "Roving Repairs",
+        "location": "Richmond, Va",
+        "position": "Owner, Technician",
+        "duties": {
+          "1": "Determine staffing requirements, interview, hire and train employees, and oversee personnel processes",
+          "2": "Design, build, and maintain website using WordPress, including theme creation and customization using HTML and CSS",
+          "3": "Integrate Square API for credit card processing"
+        }
+      }
+    },
+    "education": {
+      "1": {
+        "name": "Udacity",
+        "location": "Telecommute",
+        "cert": "FullStack NanoDegree"
+      },
+      "2": {
+        "name": "Advance Technology Institute",
+        "location": "Virginia Beach, VA",
+        "cert": "Automotive Technology"
+      }
+    },
+    "links": {
+      "1": {
+        "name": "Github",
+        "url": "github.com/kinetik06"
+      },
+      "2": {
+        "name": "Portfolio"
+      }
+    },
+    "zombietechinc.com": {},
+    "skills": {
+      "1": "Building back-end solutions using Apache & Nginx",
+      "2": "Using Bootstrap to build complex grid-based front-ends",
+      "3": "Django and Flask web frameworks"
+    }
+  }
