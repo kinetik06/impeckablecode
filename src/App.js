@@ -4,7 +4,8 @@ import GetResume from './GetResume';
 import Face from './Face';
 import Clock from './Clock';
 import Skills from './Skills';
-import Experience from './Experience'
+import Experience from './Experience';
+import Portfolio from './Portfolio';
 
 const styles = {};
 
@@ -23,6 +24,7 @@ function App() {
       </header>
       <Skills/>
       <Experience/>
+      <Portfolio/>
     </div>
   );
 

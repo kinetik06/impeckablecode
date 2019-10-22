@@ -21,7 +21,11 @@ export default function Experience(props) {
                         
                             <h2>{experience.name}</h2>
                             <p>{experience.location}</p>
-
+                            <ul>
+                            {experience.duties.map((duty) =>
+                                <div className="duties"><li>{duty}</li></div>
+                                )}
+                            </ul>
                         </div>)}            
                 
                 </div>

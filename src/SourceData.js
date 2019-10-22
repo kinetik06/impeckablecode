@@ -12,32 +12,32 @@
             "name": "ZombieTech Inc",
             "location": "Richmond, Va",
             "position": "Developer",
-            "duties": {
-              "1": "Design and maintain web applications using web frameworks",
-              "2": "Deploy web applications using Apache & Nginx",
-              "3": "Design, build, maintain, and debug native Android applications",
-              "4": "Integrate RESTful APIs to increase functionality"
-            }
+            "duties": [
+              "Design and maintain web applications using web frameworks",
+              "Deploy web applications using Apache & Nginx",
+              "Design, build, maintain, and debug native Android applications",
+              "Integrate RESTful APIs to increase functionality"
+            ]
           },
           {
             "name": "Haley Buick GMC",
             "location": "Richmond, Va",
             "position": "Parts Consultant",
-            "duties": {
-              "1": "Provide support for Service Dept by providing necessary parts for repairs",
-              "2": "Answer phone calls and provide customers with quotes on applicable parts",
-              "3": "Communicate via email & phone to distributors and service providers"
-            }
+            "duties": [
+              "Provide support for Service Dept by providing necessary parts for repairs",
+              "Answer phone calls and provide customers with quotes on applicable parts",
+              "Communicate via email & phone to distributors and service providers"
+            ]
           },
           {
             "name": "Roving Repairs",
             "location": "Richmond, Va",
             "position": "Owner, Technician",
-            "duties": {
-              "1": "Determine staffing requirements, interview, hire and train employees, and oversee personnel processes",
-              "2": "Design, build, and maintain website using WordPress, including theme creation and customization using HTML and CSS",
-              "3": "Integrate Square API for credit card processing"
-            }
+            "duties": [
+              "Determine staffing requirements, interview, hire and train employees, and oversee personnel processes",
+              "Design, build, and maintain website using WordPress, including theme creation and customization using HTML and CSS",
+              "Integrate Square API for credit card processing"
+            ]
           }
         ],
         "education": {
@@ -52,16 +52,28 @@
             "cert": "Automotive Technology"
           }
         },
-        "links": {
-          "1": {
+        "links": [
+          {
+            "id": "1",
             "name": "Github",
-            "url": "github.com/kinetik06"
+            "url": "http://www.github.com/kinetik06",
+            "img": "/img/github.png"
           },
-          "2": {
-            "name": "Portfolio",
-            "url": "zombietechinc.com"
+          {
+            "id": "2",
+            "name": "ZombieTech Inc",
+            "url": "http://www.zombietechinc.com",
+            "img": "/img/zombietechinc.png"
+          },
+          {
+            "id": "3",
+            "name": "AlexanderBragg.com",
+            "url": "http://www.alexanderbragg.com",
+            "img": "/img/alexanderbragg.png"
           }
-        },
+
+
+        ],
         
         "skills": [
           {

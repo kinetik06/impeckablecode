@@ -1,4 +1,4 @@
-.skills-header {
+.portfolios-header {
     background-color: grey;
     width: 100%;
     display: flex;
@@ -6,18 +6,32 @@
     align-content: flex-start;
 }
 
-.skills-body {
+.portfolios-body {
     display: flex;
+    justify-content: space-between;
     min-width: 90%;
     min-height: 300px;
     overflow-x: scroll;
-    padding: 10px;
+    padding: 0px;
     scrollbar-width: thin;
 }
 
-.skills-title {
+.portfolios-title {
+    font-size: 1.5em;
+    min-width: 100%;
+    padding: 10px;
+
+}
+
+.portfolios-title h2 {
     font-size: 1.5em;
     min-width: 100%;
     margin: 5px;
+}
+
+
+.portfolios-body img {
+
+    width: 100%;
 }
 
