@@ -3,7 +3,8 @@ import './App.css';
 import GetResume from './GetResume';
 import Face from './Face';
 import Clock from './Clock';
-import Skills from './Skills'
+import Skills from './Skills';
+import Experience from './Experience'
 
 const styles = {};
 
@@ -18,9 +19,10 @@ function App() {
         <GetResume/>
         <Clock/>
         
-        <Skills/>
+        
       </header>
-      
+      <Skills/>
+      <Experience/>
     </div>
   );
 

@@ -7,9 +7,9 @@
           "address": "3331 The Loop Rd. Richmond, VA 23231",
           "ph_number": "(804)405-6331"
         },
-        "experience": {
-          "1": {
-            "name": "Zombie Tech Inc",
+        "experience": [
+          {
+            "name": "ZombieTech Inc",
             "location": "Richmond, Va",
             "position": "Developer",
             "duties": {
@@ -19,7 +19,7 @@
               "4": "Integrate RESTful APIs to increase functionality"
             }
           },
-          "2": {
+          {
             "name": "Haley Buick GMC",
             "location": "Richmond, Va",
             "position": "Parts Consultant",
@@ -29,7 +29,7 @@
               "3": "Communicate via email & phone to distributors and service providers"
             }
           },
-          "3": {
+          {
             "name": "Roving Repairs",
             "location": "Richmond, Va",
             "position": "Owner, Technician",
@@ -39,7 +39,7 @@
               "3": "Integrate Square API for credit card processing"
             }
           }
-        },
+        ],
         "education": {
           "1": {
             "name": "Udacity",

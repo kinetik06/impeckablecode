@@ -1,4 +1,4 @@
-.skills-header {
+.experience-header {
     background-color: grey;
     width: 100%;
     display: flex;
@@ -6,7 +6,7 @@
     align-content: flex-start;
 }
 
-.skills-body {
+.experience-body {
     display: flex;
     min-width: 90%;
     min-height: 300px;
@@ -15,9 +15,12 @@
     scrollbar-width: thin;
 }
 
-.skills-title {
+.experience-title {
     font-size: 1.5em;
     min-width: 100%;
     margin: 5px;
 }
 
+.experience-body::-webkit-scrollbar {
+    
+  }
