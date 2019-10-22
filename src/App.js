@@ -6,6 +6,7 @@ import Clock from './Clock';
 import Skills from './Skills';
 import Experience from './Experience';
 import Portfolio from './Portfolio';
+import Contact from './Contact';
 
 const styles = {};
 
@@ -25,6 +26,7 @@ function App() {
       <Skills/>
       <Experience/>
       <Portfolio/>
+      <Contact/>
     </div>
   );
 

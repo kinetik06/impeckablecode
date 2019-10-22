@@ -7,6 +7,38 @@
           "address": "3331 The Loop Rd. Richmond, VA 23231",
           "ph_number": "(804)405-6331"
         },
+        "contactinfo": [
+          {
+            "text": "me@impeckablecode.com",
+            "id": "1",
+            "name": "Email",
+            "url": "mailto:me@impeckablecode.com"
+          },
+          {
+            "text": "github.com/kinetik06",
+            "id": "2",
+            "name": "Github",
+            "url": "http://www.github.com/kinetik06"
+          },
+          {
+            "text": "mpeck@zombietechinc.com",
+            "id": "3",
+            "name": "ZombieTech Inc",
+            "url": "mailto:mpeck@zombietechinc.com"
+          },
+          {
+            "text": "discord.gg/Ysa8qHR",
+            "id": "4",
+            "name": "Discord",
+            "url": "https://discord.gg/Ysa8qHR"
+          },
+          {
+            "text": "(804)405-6331",
+            "id": "5",
+            "name": "Phone",
+            "url": "tel:8044056331"
+          }
+        ],
         "experience": [
           {
             "name": "ZombieTech Inc",

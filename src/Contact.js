@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import portfolios from './SourceData';
-import './Portfolio.css';
+import contactinfo from './SourceData';
+import './Contact.css';
 
 
 
@@ -10,25 +10,24 @@ export default function Portfolio(props) {
         
         
         return (
-            <div className="portfolios">
-                <div className="portfolios-header">
-                    <h1>Portfolio</h1>
+            <div className="contact-container">
+                <div className="contact-header">
+                    <h1>Contact Me</h1>
                 </div>
-                
-                <div className="portfolios-body"> 
-                    {portfolios.data.links.map((portfolio) => 
+                <div className="contact-body">
+                    {contactinfo.data.contactinfo.map((contact) => 
+                        <a href={contact.url}><div className="contact-info">
+                            <div className="contact-info-title">
+                            {contact.name}
+                            </div>
+                            <div className="contact-info-body">
+                                {contact.text}
+                            </div>
+                        </div></a>
                         
-                        <div className='portfolios-title'>
-                        <h2>{portfolio.name}</h2>
-                        <a href={portfolio.url}><img src={portfolio.img}></img></a>
-                        </div>
-                        
-                        
-                        
-                        
-                        )}            
-                
+                        )}
                 </div>
+
             </div>
         )
     }

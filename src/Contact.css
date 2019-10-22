@@ -1,0 +1,50 @@
+.contact-container {
+    width: 100%;
+    background-color: black;
+    
+}
+
+.contact-container a {
+    text-decoration: none;
+    color: white;
+}
+
+.contact-header {
+    background-color: grey;
+    width: 100%;
+    display: flex;
+    padding-left: 1em;
+    align-content: flex-start;
+    
+}
+
+.contact-body {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.contact-info {
+    height: 70px;
+    background-color: #282c34;
+    margin: 5px;
+    min-width: 350px;
+    max-width: 100%;
+    border-radius: 10px;
+    
+}
+
+.contact-info-title {
+    border-radius: 10px;
+    padding: 5px;
+    background-color: gray;
+    
+}
+
+.contact-info-body {
+    max-width: 50%;
+    padding: 5px;
+}
