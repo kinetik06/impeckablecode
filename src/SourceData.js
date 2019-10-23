@@ -111,7 +111,7 @@
           {
             "id": "1",
             "name": "Java",
-            "description": "I was running an automotive repair shop when I decided to get into programming. I didn't really know where to start, but I had an Android phone. I downloaded Eclipse, was absolutely taken back by the complexity of it. I thought programming was out of reach, but then Android Studio was released. ",
+            "description": "I was running an automotive repair shop when I decided to branch into programming. I didn't really know where to start, but I had an Android phone. I downloaded Eclipse and was absolutely taken aback by the complexity of it. I thought programming was out of reach, but then Android Studio was released.",
             "keywords": {
               "1": "Android",
               "2": "Eclipse",
@@ -121,7 +121,7 @@
           {
             "id": "2",
             "name":"Python",
-            "description": "About one year ago, I became very interested in building web applications. I wanted to learn how backend APIs worked, and how to create them. I had used APIs in my Android applications, but I had no idea about he complexities involved in creating them. I took a course on Udactiy.com on FullStack Development. This course allowed me to explore web frameworks such as Flask and Django.",
+            "description": "About one year ago, I became very interested in building web applications. I wanted to learn how back-end APIs worked and how to create them. I had used APIs in my Android applications, but I had no idea about the complexities involved in creating them. I took a course on Udactiy.com on Full Stack Development. This course allowed me to explore web frameworks such as Flask and Django.",
             "keywords": {
               "1": "Django",
               "2": "Flask"
@@ -130,7 +130,7 @@
           {
             "id": "3",
             "name": "SQL",
-            "description": "My Udacity course had an entire section dedicated to SQL. While I struggled with the syntax, I was able to see just how powerful these relational databases were.",
+            "description": "My Udacity course had an entire section dedicated to SQL. While I struggled with the syntax, I was able to see the power in these relational databases.",
             "keywords": {
               "1": "MySQL",
               "2": "SQLite",
@@ -141,7 +141,7 @@
           {
             "id": "4",
             "name": "React",
-            "description": "My frontend applications have normally been based using Django and Bootstrap. I became interested in React due to it's 'one page' capabilities. I believe I have a lot of room for growth in this area, but this page was built using it. What do you think?",
+            "description": "My front-end applications have normally been based using Django and Bootstrap. I became interested in React due to it's 'one page' capabilities. I believe I have a lot of room for growth in this area, but this page was built using it. What do you think?",
             "keywords": {
               "1": "React",
               "2": "JavaScript"
